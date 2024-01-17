@@ -54,7 +54,7 @@ function Content4() {
           <img className="h-[100%]" src={bg8} alt="" />
         </div>
       </div>
-      <div className="flex p-20 pt-28 gap-8  ">
+      <div className="flex p-20 pt-28 gap-8  sm:flex-col">
         <div className="relative  flex justify-center items-center text-white" >
           <img className="brightness-50 " src={pro} alt="" />
           <h1 className="font-medium text-2xl tracking-wider absolute">
